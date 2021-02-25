@@ -1,4 +1,4 @@
-token = 'ODE0MTUyMDYxNjA3ODcwNTI1.YDZsMQ.NtCYwD0EwrsAi2zysYttFfP9JJE' # your bot's token
+token = '' # your bot's token
 client_id = 814152061607870525 # your bot's client id
 owner_id = 357768011593023499 # 
 discordbotlist_key = '' # discordbotlist.com api key
