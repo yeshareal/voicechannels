@@ -1,5 +1,6 @@
 import discord
-from discord.ext import commands, menus
+from discord.ext import commands
+import menus
 import config
 from cogs.help import HelpCommand
 from utils.jsonfile import JSONList, JSONDict
