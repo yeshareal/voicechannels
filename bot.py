@@ -250,4 +250,4 @@ class Bot(commands.Bot):
 
 
 if __name__ == "__main__":
-    Bot().run(config.token)
+    Bot().run(os.environ['DISCORD_TOKEN'])
